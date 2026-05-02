@@ -149,17 +149,3 @@ src/
 
 ---
 
-## ✅ Judging Criteria Checklist
-
-| Criterion | How it's met |
-|---|---|
-| Firebase Integration | `addDoc` writes on submit; `onSnapshot` gives real-time reads |
-| Real-time update | `onSnapshot` listener — no refresh needed |
-| Code Quality | Clean component split; config 100% via env vars |
-| UI Cleanliness | Custom CSS, fully styled, mobile-responsive |
-| Does it work | Form validates, submits, admin updates live |
-| `.env.example` | ✅ Provided |
-
----
-
-Built for Danitum Technologies – Full Stack Intern Assessment
